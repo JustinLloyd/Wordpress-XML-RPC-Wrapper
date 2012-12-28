@@ -1,8 +1,6 @@
 Wordpress XML-RPC Wrapper
 ======================
 
-Welcome
-=======
 Thanks for your interest in WordpressXMLRPCWrapper. This project is now hosted at https://bitbucket.org/JustinLloyd/wordpressxmlrpcwrapper
 
 
