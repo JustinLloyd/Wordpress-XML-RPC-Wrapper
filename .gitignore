@@ -10,3 +10,6 @@ bin\*
 Bin\*
 packages\*
 .git/*
+.hg/*
+.hgignore
+.nuget/*
