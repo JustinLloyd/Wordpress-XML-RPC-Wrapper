@@ -1,0 +1,12 @@
+syntax: glob
+*.suo
+*.pdb
+*.log
+*.bak
+
+*/.svn
+obj\*
+bin\*
+Bin\*
+packages\*
+.git/*

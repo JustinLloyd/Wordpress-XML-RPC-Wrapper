@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordpressXMLRPCWrapper", "WordpressXMLRPCWrapper\WordpressXMLRPCWrapper.csproj", "{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordpressDemoHarness", "WordpressDemoHarness\WordpressDemoHarness.csproj", "{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{21A133B9-D60A-40BA-B630-781D3E6A1F39}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{88CFCC2D-3962-4890-88D7-D6E869EEA122}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}.Debug|x86.ActiveCfg = Debug|x86
+		{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}.Debug|x86.Build.0 = Debug|x86
+		{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}.Release|x86.ActiveCfg = Release|x86
+		{60B349BF-4DA9-4340-A7E2-85C0BA1F9A1E}.Release|x86.Build.0 = Release|x86
+		{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}.Debug|x86.ActiveCfg = Debug|x86
+		{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}.Debug|x86.Build.0 = Debug|x86
+		{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}.Release|x86.ActiveCfg = Release|x86
+		{84E21EF3-5F08-4BB1-A1B9-AB8A10E35CE8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
